@@ -7,7 +7,7 @@ const prod = {
 
 const dev = {
   url: {
-    API_BASE_URL: 'http://localhost:8080',
+    API_BASE_URL: 'https://dixon-project-f2ff26836789.herokuapp.com',
     OAUTH2_REDIRECT_URI: 'http://localhost:3000/oauth2/redirect'
   }
 }
